@@ -74,7 +74,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=yasinbyzli&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=ysnbyzli&color=blue)
 <details>
  <summary>Summary Goes Here</summary>
 
@@ -94,7 +94,7 @@ JSON         14 mins         ▓░░░░░░░░░░░░░░░░
 
  #### Github Stats
 
-![yasinbyzli's github stats](https://github-readme-stats.vercel.app/api?username=yasinbyzli&count_private=true&theme=tokyonight&hide=contribs,prs)
+![yasinbyzli's github stats](https://github-readme-stats.vercel.app/api?username=ysnbyzli&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
