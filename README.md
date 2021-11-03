@@ -82,13 +82,13 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
-Vue.js       7 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   35.47 % 
-JavaScript   5 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.66 % 
-C#           4 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Vue.js       6 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.57 % 
+C#           5 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.05 % 
+JavaScript   5 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 % 
+TypeScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
 
