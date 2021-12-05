@@ -53,7 +53,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> </a>
 </span>
 <span>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="http://monarchtechnologiesinc.com/assets/images/icons/technologies/logo-css3.png" alt="html" width="35" height="35"/> </a>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="30" height="30"/> </a>
 </span>
 <span>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="html" width="30" height="30"/> </a>
