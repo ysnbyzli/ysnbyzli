@@ -32,6 +32,9 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 <h4 align="left">Tutorials:</h4>
 <span>
+<a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" width="30" height="30"/> </a>
+</span>
+<span>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
 </span>
 <span>
