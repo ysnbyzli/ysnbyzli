@@ -85,13 +85,13 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-JavaScript   15 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.80 % 
-JSX          5 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-HTML         4 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-CSS          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Groovy       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JavaScript   15 hrs 12 mins  ████████████▓░░░░░░░░░░░░   50.38 % 
+HTML         6 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 % 
+JSX          3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+CSS          2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+SCSS         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 <!--END_SECTION:waka-->
 
