@@ -85,7 +85,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
 SCSS         3 hrs 42 mins   ████████████████▓░░░░░░░░   66.63 % 
 HTML         1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 % 
