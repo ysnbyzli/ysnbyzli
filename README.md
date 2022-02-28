@@ -84,9 +84,11 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
