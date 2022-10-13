@@ -12,11 +12,11 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin_beyazli) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinbeyazli29@gmail.com)
 
-- 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
+- 🧑🏻‍💻 I'm currently software engineer at Paket Mutfak.
 
-- 🔭 I'm currently working to become a Full Stack Developer.
+- 🔭 I'm currently working to become a Frontend and Mobile Developer.
 
-- 📈 I am currently learning **Node.js, React.js, GraphQL**.
+- 📈 I am currently learning **React.js, React Native**.
 
 - 💬 Ask me about **Javascript, CSS, Node.js, React.js**.
 
