@@ -86,13 +86,14 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-JavaScript   26 hrs 12 mins  ████████████████████████▓   98.21 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   26 hrs 47 mins  ████████████████████████▒   96.84 %
+JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Groovy       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
