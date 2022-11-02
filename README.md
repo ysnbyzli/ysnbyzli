@@ -18,7 +18,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 - 📈 I am currently learning **React.js, React Native**.
 
-- 💬 Ask me about **Javascript, CSS, Node.js, React.js**.
+- 💬 Ask me about **Javascript, CSS, Node.js, React.js, React Native**.
 
 - 👀 I am working on fronted components on the codepen platform in my spare time. I left the link above if you want to check it out.
 
