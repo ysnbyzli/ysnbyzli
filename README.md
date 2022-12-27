@@ -86,10 +86,13 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-JavaScript   55 mins         ████████████████████████░   96.28 %
-Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+TypeScript   2 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   43.23 %
+Bash         1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Python       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+JavaScript   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
