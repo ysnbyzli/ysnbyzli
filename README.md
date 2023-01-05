@@ -16,9 +16,11 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 - 🔭 I'm currently working to become a Frontend and Mobile Developer.
 
-- 📈 I am currently learning **React.js, React Native**.
+- 📈 languages/libraries I work with during the day **React.js, React Native, Python, SQL**.
 
-- 💬 Ask me about **Javascript, CSS, Node.js, React.js, React Native**.
+- 📈 I am currently learning **Swift**.
+
+- 💬 Ask me about **Javascript, CSS, Node.js, React.js, React Native, SQL, Python**.
 
 - 👀 I am working on fronted components on the codepen platform in my spare time. I left the link above if you want to check it out.
 
@@ -28,7 +30,8 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <h4 align="left">Tutorials:</h4>
 <span>
@@ -78,7 +81,10 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=ysnbyzli&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=ysnbyzli&color=blue) 
+![followers](https://img.shields.io/github/followers/ysnbyzli.svg?style=social&label=Follow&maxAge=2592000)
+
+
 <details>
  <summary>Summary Goes Here</summary>
 
