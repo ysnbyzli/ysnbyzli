@@ -92,7 +92,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
 Python       4 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
 TypeScript   2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
