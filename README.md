@@ -92,14 +92,14 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
-Python             17 hrs 11 mins  ████████████▒░░░░░░░░░░░░   49.62 %
-TypeScript         9 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-Go                 4 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-SCSS               59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-requirements.txt   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-CSS                38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Python             16 hrs 49 mins  ████████████▓░░░░░░░░░░░░   51.00 %
+TypeScript         11 hrs 15 mins  ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Go                 1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+SCSS               59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+CSS                45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+requirements.txt   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
