@@ -74,19 +74,11 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 
-
-
-<br />
-<br />
-
 #### Profile Visits 
 
 ![visitors](https://komarev.com/ghpvc/?username=ysnbyzli&color=blue) 
 ![followers](https://img.shields.io/github/followers/ysnbyzli.svg?style=social&label=Follow&maxAge=2592000)
 
-
-<details>
- <summary>Summary Goes Here</summary>
 
 ### Coding Stats
 <!--START_SECTION:waka-->
@@ -109,5 +101,5 @@ TSConfig           21 mins         ▒░░░░░░░░░░░░░░
 
 ![yasinbyzli's github stats](https://github-readme-stats.vercel.app/api?username=ysnbyzli&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+
 
