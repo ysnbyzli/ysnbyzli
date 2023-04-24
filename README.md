@@ -84,14 +84,14 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-TypeScript         16 hrs 18 mins  ████████████▒░░░░░░░░░░░░   49.78 %
-Python             12 hrs 50 mins  █████████▓░░░░░░░░░░░░░░░   39.18 %
-TOML               1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-YAML               39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Docker             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript         15 hrs 32 mins  █████████████▒░░░░░░░░░░░   53.23 %
+Python             10 hrs 24 mins  █████████░░░░░░░░░░░░░░░░   35.66 %
+TOML               1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+YAML               39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JSON               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Docker             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
