@@ -1,6 +1,6 @@
 ## Hi I'm Yasin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Yasin Beyazlı, I'm developing myself as a full stack developer. 
+I have a personality that always strives to do the best in whatever I do, with a constant desire to learn in my personal goals. I enjoy acquiring new knowledge in my spare time, applying it, and sharing the information I have learned. I respect every idea, which is why I am open to different opinions and suggestions. I cannot describe the gains I have achieved through trying out different ideas. By the way, I am a huge fan of football.
 
 :mailbox: Reach me out!
 
@@ -35,34 +35,22 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 <h4 align="left">Tutorials:</h4>
 <span>
-<a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" width="30" height="30"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
 </span>
 <span>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
 </span>
 <span>
-<a href="https://www.w3schools.com/GIT" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/GIT" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </span>
 <span>
-<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="30" height="30"/> </a>
+<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
 </span>
 <span>
-<a href="https://www.elastic.co/?ultron=B-Stack-Trials-EMEA-S-Exact&gambit=Stack-Core&blade=adwords-s&hulk=cpc&Device=c&thor=elasticsearch&gclid=CjwKCAjwxo6IBhBKEiwAXSYBszfaJfKG45UGCnUeixB0FpHLaqLR0xl22HA1of1hqbUDsAnJYN9OjBoCMiYQAvD_BwE" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="30" height="30"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/> </a>
 </span>
 <span>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="30" height="30"/> </a>
-</span>
-<span>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/> </a>
-</span>
-<span>
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> </a>
-</span>
-<span>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="30" height="30"/> </a>
-</span>
-<span>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="html" width="30" height="30"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 </span>
 
 <br/>
