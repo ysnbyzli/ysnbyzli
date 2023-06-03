@@ -71,14 +71,14 @@ I have a personality that always strives to do the best in whatever I do, with a
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Python             28 hrs 7 mins   ████████████████████████░   96.05 %
-Log                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Text               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JSON               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-GitIgnore file     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python             29 hrs 12 mins  ████████████████████████░   96.49 %
+Text               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+GitIgnore file     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
