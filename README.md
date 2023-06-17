@@ -18,7 +18,7 @@ I have a personality that always strives to do the best in whatever I do, with a
 
 - 📈 languages/libraries I work with during the day **React.js, React Native, Python, SQL**.
 
-- 📈 I am currently learning **Swift**.
+- 📈 I am currently learning **Nest.js**, **Python**.
 
 - 💬 Ask me about **Javascript, CSS, Node.js, React.js, React Native, SQL, Python**.
 
