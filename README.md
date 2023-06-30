@@ -72,13 +72,10 @@ I have a personality that always strives to do the best in whatever I do, with a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 28 June 2023
+From: 22 June 2023 - To: 29 June 2023
 
-Python             10 hrs 19 mins  ███████████████████▒░░░░░   77.93 %
-TypeScript         2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-Bash               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       3 hrs 42 mins   ██████████████████▓░░░░░░   75.29 %
+TypeScript   1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
 ```
 
 <!--END_SECTION:waka-->
