@@ -14,11 +14,11 @@ I am a software developer with about three years of experience at Paket Mutfak, 
 
 - 🧑🏻‍💻 I'm currently software engineer at Paket Mutfak.
 
-- 🔭 I'm currently working to become a Frontend and Mobile Developer.
+- 🔭 I'm currently working to become a Software Crafter.
 
-- 📈 languages/libraries I work with during the day **React.js, React Native, Python, SQL**.
+- 📈 languages/libraries I work with during the day **React.js, React Native, Python, SQL, AWS**.
 
-- 📈 I am currently learning **Nest.js**, **Python**.
+- 📈 I am currently learning **LLM, Microservice, Microfrontend**.
 
 - 💬 Ask me about **Javascript, CSS, Node.js, React.js, React Native, SQL, Python**.
 
