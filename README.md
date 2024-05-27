@@ -1,6 +1,6 @@
 ## Hi I'm Yasin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I have a personality that always strives to do the best in whatever I do, with a constant desire to learn in my personal goals. I enjoy acquiring new knowledge in my spare time, applying it, and sharing the information I have learned. I respect every idea, which is why I am open to different opinions and suggestions. I cannot describe the gains I have achieved through trying out different ideas. By the way, I am a huge fan of football.
+I am a software developer with about three years of experience at Paket Mutfak, where I have developed frontend, backend, and mobile applications, as well as managed deployment processes on AWS. I have a personality that always strives to do the best in whatever I do, with a constant desire to learn in my personal goals. I enjoy acquiring new knowledge in my spare time, applying it, and sharing the information I have learned. I respect every idea, which is why I am open to different opinions and suggestions. I cannot describe the gains I have achieved through trying out different ideas. By the way, I am a huge fan of football.
 
 :mailbox: Reach me out!
 
