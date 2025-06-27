@@ -72,7 +72,7 @@ I am a software developer with about three years of experience at Paket Mutfak, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
 No activity tracked
 ```
